@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andres-f-ariza
 - 👀 I’m interested in Data Science, Fullstack Development.
 - 🌱 I’m currently learning JavaScript, HTML, SCC, Python, Machine Learning, C, Data Analytics, Linux.
-- 💞️ I’m looking to collaborate on web development, web scrapping, data analysis.
+- 💞️ I’m looking to collaborate on web development, data analysis, Machine Learning.
 - 📫 How to reach me: arizaandres8@gmail.com
 
 <!---
